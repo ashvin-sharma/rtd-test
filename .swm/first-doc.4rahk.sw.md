@@ -2,33 +2,87 @@
 id: 4rahk
 name: First doc.
 file_version: 1.0.2
-app_version: 0.9.2-2
+app_version: 0.10.0-2
 file_blobs:
-  lumache.py: 3ea7ce95c0a3d517b41db15542a89f107757e334
+  lumache.py: 587fcfbfa64c1ae931ecafa52d1940c936800cae
 ---
 
+`📄 lumache.py`
 
+## **Table of contents**
 
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 lumache.py
-```python
-⬜ 12     
-⬜ 13     def get_random_ingredients(kind=None):
-⬜ 14         """
-🟩 15         Return a list of random ingredients as strings.
-⬜ 16     
-⬜ 17         :param kind: Optional "kind" of ingredients.
-⬜ 18         :type kind: list[str] or None
-```
+**Product-Led Growth (PLG)** may look like a kind of marketing strategy. Dive a bit deeper, and you will discover it is a unique way of growing a SaaS business. PLG is quite unlike the sales-driven Go-To-Market or GTM strategy, which has high customer acquisition costs. The SaaS market is increasingly leaning towards PTG to create a seamless customer experience. However, for implementing a successful Product-Led Growth strategy, sales and marketing professionals must stay updated with the latest developments.  
+  
+Here is a list of the top 20 books that leaders can use to help SaaS professionals understand and build a modern SaaS-powered business🤩 :
+
+**10\. Customer Success: How Innovative Companies Are Reducing Churn and Growing Recurring Revenue**
 
 <br/>
 
-# lets try this. Good Stuff.
+<div align="center"><img src="https://assets.website-files.com/61a60c66d019df8b241b1720/6221c14cd04f5826982367dc_HHRTwea0sP8OLRce0OJlpIwHqsGM54pil_wX__w8Ry8p20Ca2mGMXqrRzkI3OTqpUdh343RhebvjIZZ2_Pmrf8vL0SM7LqBNVCa0tzRylufBwon-BEzbtqtPUC2NPBoRrJ0YL5BK%3Ds0.jpeg" style="width:'50%'"/></div>
 
-/
+<br/>
+
+**Description:**
+
+The book is an excellent source of information for CEOs, especially SaaS companies. It helps reorient your thinking and sets goals for driving customers to your business.
+
+**Author:**
+
+Nick Mehta is the CEO of Gainsight, a customer success enterprise. He has immense success in creating customer success and works with a team of over 700 people.  
+  
+[**Buy from**](https://www.amazon.com/Customer-Success-Innovative-Companies-Recurring/dp/1119167965/ref=as_li_ss_tl?crid=AY576VD8DT7U&keywords=customer+success+book&qid=1565973521&s=gateway&sprefix=Customer+success,aps,209&sr=8-1&linkCode=sl1&tag=trafficiscurr-20&linkId=a688f9149a2306d31f940cab4d804228&language=en_US)
+
+**9.**  **Influence: The Psychology of Persuasion**
+
+<br/>
+
+<div align="center"><img src="https://assets.website-files.com/61a60c66d019df8b241b1720/6221c14cf30c5ca58c4c7846_I64ugaD1NvmgB5p_tuhrSsQ_AEF4kIrPZvv4qOnS3lrI95bj_eiyoQmAwKLEb5_hlXYZ7bisT8laykagASPvbybkBAATq1wcEc9lXNgK-vXSegcKkAdRZf1iaDkzEh8zIZ63z_0G%3Ds0.jpeg" style="width:'50%'"/></div>
+
+<br/>
+
+**Description**:
+
+This is a classic book on persuasion and influence. The author explains the psychology of why people say yes and how to use these ideas in business situations.
+
+**Author:**
+
+Robert Beno Cialdini has done groundbreaking work in the area of influence and persuasion. He is the Regents' Professor Emeritus of Psychology and Marketing at Arizona State University.
+
+[**Buy From**](https://www.amazon.com/Influence-Psychology-Persuasion-Robert-Cialdini/dp/006124189X/ref=as_li_ss_tl?crid=RFATBQVM6YA7&keywords=influence+the+psychology+of+persuasion&qid=1565973940&s=books&sprefix=infl,stripbooks-intl-ship,182&sr=1-1&linkCode=sl1&tag=trafficiscurr-20&linkId=d9a1dbd539dd1ef554d3f52b2aa8ff51&language=en_US)
+
+**8.**  **Traction: How Any Startup Can Achieve Explosive Customer Growth**
 
 
 
+
+<br/>
+
+this is an awesome code snippet.. wow
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 lumache.py
+```python
+⬜ 10         pass
+⬜ 11     
+⬜ 12     
+🟩 13     def get_random_ingredients(kind=None):
+🟩 14         """
+🟩 15         Return a list of random ingredients as strings.
+🟩 16     
+🟩 17         :param kind: Optional "kind" of ingredients.
+🟩 18         :type kind: list[str] or None
+🟩 19         :raise lumache.InvalidKindError: If the kind is invalid.
+🟩 20         :return: The ingredients list.
+🟩 21         :rtype: list[str]
+🟩 22         sth else
+🟩 23         """
+🟩 24         return ["shells", "gorgonzola", "parsley"]
+🟩 25     
+🟩 26     
+🟩 27     def abc():
+🟩 28         pass
+🟩 29     
+```
 
 <br/>
 
